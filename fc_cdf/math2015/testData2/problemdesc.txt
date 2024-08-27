@@ -1,0 +1,11 @@
+No.	Type	Full Score
+1	Obj	2
+2	Obj	2
+3	Obj	2
+4	Obj	2
+5	Obj	2
+6	Obj	2
+7	Obj	2
+8	Obj	2
+9	Obj	2
+10	Obj	2
