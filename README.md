@@ -1,4 +1,4 @@
-# comparison experiments
+# Comparison experiments
 This is the code for comparison experiments with the following three methods.The design and implementation follows original paper as much as possible.
 
 # Method
