@@ -13,7 +13,7 @@ This is the code for comparison experiments with the following three methods.The
 # Project Structure
 
 - `code`: Implementation of Mul-SAN
-- `data`
+- `data`: Data of Mul-SAN
   - `data`: Processed data
   - `MOOPer`: Dataset used
   - `save_data`: Results saved
